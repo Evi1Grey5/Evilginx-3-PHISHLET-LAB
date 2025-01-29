@@ -59,6 +59,13 @@ const value = localStorage.getItem(key);
 currentLocalStorageState[key] = value;
 }
 ```
+### Puppeteer Real Browser
+This package prevents Puppeteer from being detected as a bot in services like Cloudflare and allows you to pass captchas without any problems. It behaves like a real browser.
+
+<p align="center">
+<video src='https://github.com/user-attachments/assets/5dddca09-6941-42e9-9427-5c666632483f'/>
+</p>
+
 ### Recaptcha Bypass
 - This method works by modifying the javascript code responsible to generate the base64 string which contains the domain name.
 - Subfilter can be modified accordingly based on the target site.
