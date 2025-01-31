@@ -11,7 +11,7 @@ Learn how to install Evilginx locally or deploy it on a remote server [Deploymen
 
 #### Which PHISHLETs are currently available have been tested on our versions 3.7.1 - 3.9.0.
 
-##### [ Google x Binance x Blockchain x Coinbase x Bitmedia x PayPal x Telegram x Proton x Dropbox x Payeer ]
+##### [ Google x Binance x Blockchain x Coinbase x Bitmedia x PayPal x Telegram x Proton x Dropbox x Payeer x Mexc x Bingx x Kraken x CoinRule x BTCC x Phemex x SendGrid x DHL ]
 
 ### #Phishlet Format (v3.0.0-vX.X.X)
 
