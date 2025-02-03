@@ -1,5 +1,4 @@
-# Evilginx 3 PHISHLET
-<img align="left" src="https://github.com/user-attachments/assets/9655710b-1b9e-4ed7-894a-b5109aecff6c" width="450" height="550">
+<img align="left" src="https://github.com/user-attachments/assets/66a1298f-527e-43a9-9d31-8ee0ad8fc681">
 
 This repository was created solely to assist in the creation of PHISHLETS / Modification of the Evilginx software itself / In solving any problems associated with this software and PHISHLETS.
 
@@ -14,7 +13,7 @@ Learn how to install Evilginx locally or deploy it on a remote server [Deploymen
 ##### [ Google x Binance x Blockchain x Coinbase x Bitmedia x PayPal x Telegram x Proton x Dropbox x Payeer x Mexc x Bingx x Kraken x CoinRule x BTCC x Phemex x SendGrid x DHL ]
 
 ### #Phishlet Format (v3.0.0-vX.X.X)
-
+https://github.com/user-attachments/assets/9655710b-1b9e-4ed7-894a-b5109aecff6c
 Phishlets are configuration files in YAML format. If you need to get familiar with YAML, first, you can find some good overview here: [YAML Syntax](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html) 
 Phishlet Format [Create](https://help.evilginx.com/docs/phishlet-format) 
 
