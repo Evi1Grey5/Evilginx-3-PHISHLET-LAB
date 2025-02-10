@@ -2,7 +2,6 @@
 
 ##### [Mods](https://lab.evilginx.dev/getting-started/publish-your-docs) x [Installation Steps​](https://lab.evilginx.dev/getting-started/quickstart) x [Create Phishlets](https://lab.evilginx.dev/basics/editor) x [GoPhish & Evilginx](https://lab.evilginx.dev/basics/images-and-media) x [Evilginx Lab xCommunity](https://lab.evilginx.dev/getting-started/evilginx-lab-xcommunity) x [Modified extensions](https://lab.evilginx.dev/basics/modified-extensions) x [EvilPuppet x Puppeteer](https://lab.evilginx.dev/basics/evilpuppet-x-puppeteer) x [Discussions](https://github.com/Evi1Grey5/Evilginx-3-PHISHLET-LAB/discussions)
 
-
 ##### [ CONFIG X PHISHLETS X LURES X REDIRECTORS X SESSIONS X PROXY X BLACKLIST ]
 
 This repository was created solely to assist in the creation of PHISHLETS / Modification of the Evilginx software itself / In solving any problems associated with this software and PHISHLETS.
@@ -15,7 +14,7 @@ __Preface:__ At the moment, there are a very large number of scammers who sell p
 ##### [ Google x Binance x Blockchain x Coinbase x Bitmedia x PayPal x Telegram x Proton x Dropbox x Payeer x Mexc x Bingx x Kraken x CoinRule x BTCC x Phemex x SendGrid x DHL ]
 
 ### #Phishlet Format (v3.0.0-vX.X.X)
-https://github.com/user-attachments/assets/9655710b-1b9e-4ed7-894a-b5109aecff6c
+
 Phishlets are configuration files in YAML format. If you need to get familiar with YAML, first, you can find some good overview here: [YAML Syntax](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html) 
 Phishlet Format [Create](https://help.evilginx.com/docs/phishlet-format) 
 
