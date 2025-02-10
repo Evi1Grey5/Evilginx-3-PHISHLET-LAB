@@ -1,12 +1,14 @@
 <img align="left" src="https://github.com/user-attachments/assets/66a1298f-527e-43a9-9d31-8ee0ad8fc681">
 
+##### [Mods](https://lab.evilginx.dev/getting-started/publish-your-docs) x [Installation Steps​](https://lab.evilginx.dev/getting-started/quickstart) x [Create Phishlets](https://lab.evilginx.dev/basics/editor) x [GoPhish & Evilginx](https://lab.evilginx.dev/basics/images-and-media) x [Evilginx Lab xCommunity](https://lab.evilginx.dev/getting-started/evilginx-lab-xcommunity) x [Modified extensions](https://lab.evilginx.dev/basics/modified-extensions) x [EvilPuppet x Puppeteer](https://lab.evilginx.dev/basics/evilpuppet-x-puppeteer) x [Discussions](https://github.com/Evi1Grey5/Evilginx-3-PHISHLET-LAB/discussions)
+
+
+##### [ CONFIG X PHISHLETS X LURES X REDIRECTORS X SESSIONS X PROXY X BLACKLIST ]
+
 This repository was created solely to assist in the creation of PHISHLETS / Modification of the Evilginx software itself / In solving any problems associated with this software and PHISHLETS.
 
 __Preface:__ At the moment, there are a very large number of scammers who sell public, raw goods, people who do not understand at all how Reverse Proxy works. Watching these people on hacker sites, telegram channels and on the Internet in general becomes funny. There is nothing complicated in creating a template for EvilGinx; the entire manual is described by the founder himself 
 [kgretzky](https://github.com/kgretzky) "Owner") __[__thanks to him for this creation__]__ It is for this reason that we decided to make a small laboratory for mutual assistance in this matter.
-
-### #Installation Steps​
-Learn how to install Evilginx locally or deploy it on a remote server [Deployment](https://help.evilginx.com/docs/category/deployment) / Learn how to set up Evilginx and run your first phishing campaign [Quick Start](https://help.evilginx.com/docs/getting-started/quick-start) / Learn how to use Evilginx [Guides](https://help.evilginx.com/docs/category/guides) __[ CONFIG X PHISHLETS X LURES X REDIRECTORS X SESSIONS X PROXY X BLACKLIST ]__
 
 #### Which PHISHLETs are currently available have been tested on our versions 3.7.1 - 3.9.0.
 
